@@ -6,7 +6,7 @@
 -- ===== CONFIG =====
 local DISCORD_INVITE = "https://discord.gg/N7MPYS4S5B" -- change to your invite
 local KEY_RAW_URL    = "https://raw.githubusercontent.com/Jehanzt/Pentacyl-Hub/refs/heads/main/key.txt" -- raw file with current key (single line)
-local MAIN_SCRIPT_URL= "https://raw.githubusercontent.com/YourUsername/YourRepo/main/mainscript.lua" -- raw main script
+local MAIN_SCRIPT_URL= "https://raw.githubusercontent.com/Jehanzt/Pentacyl-Hub/refs/heads/main/mainscript.lua" -- raw main script
 local LOCAL_KEY_FILE = "PentacylHub_key.txt" -- file saved locally (writefile/readfile)
 
 -- ===== SERVICES =====
